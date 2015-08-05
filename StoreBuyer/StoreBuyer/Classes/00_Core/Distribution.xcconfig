@@ -1,0 +1,12 @@
+//
+//  Distribution.xcconfig
+//  StoreBuyer
+//
+//  Created by Matti on 9/6/14.
+//  Copyright (c) 2014 Matti. All rights reserved.
+//
+
+PARSE_APPLICATION_ID   =
+PARSE_CLIENT_KEY       =
+STRIPE_PUBLISHABLE_KEY =
+CARDIO_APP_TOKEN       = 

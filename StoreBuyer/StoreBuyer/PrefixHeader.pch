@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  StoreBuyer
+//
+//  Created by Matti on 10/7/14.
+//  Copyright (c) 2014 Matti. All rights reserved.
+//
+
+#ifndef StoreBuyer_PrefixHeader_pch
+#define StoreBuyer_PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+
+#endif

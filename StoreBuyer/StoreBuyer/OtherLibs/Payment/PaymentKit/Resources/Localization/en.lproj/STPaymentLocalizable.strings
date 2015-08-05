@@ -1,0 +1,8 @@
+//"placeholder.card_number" = "1234 5678 9012 3456";
+//"placeholder.card_expiry" = "MM/YY";
+//"placeholder.card_cvc" = "CVC";
+
+"placeholder.card_number" = "Card Number";
+"placeholder.card_expiry" = "MM/YY";
+"placeholder.card_cvc" = "3-4 digits";
+"placeholder.card_zip" = "12345";

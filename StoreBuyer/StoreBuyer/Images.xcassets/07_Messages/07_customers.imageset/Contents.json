@@ -1,0 +1,39 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "filename" : "07_customers.png"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
