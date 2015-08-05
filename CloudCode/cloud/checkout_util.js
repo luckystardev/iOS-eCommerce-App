@@ -2,8 +2,8 @@
 //  checkout_util.js
 //  Store
 //
-//  Created by Cheng Xian on 9/21/14.
-//  Copyright (c) 2014 Cheng Xian. All rights reserved.
+//  Created by Matti on 10/15/14.
+//  Copyright (c) 2014 Matti. All rights reserved.
 //
 
 var constants 	= require('cloud/constants.js');
